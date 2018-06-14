@@ -13,7 +13,7 @@ Como a classe ItauCripto em Java foi descompilada, alguns nomes se tornaram nome
 
 Instalação
 ==============
-```php
+```
 composer require diego-vieira/itau-shopline
 ```
 
